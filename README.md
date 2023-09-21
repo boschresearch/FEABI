@@ -1,5 +1,5 @@
 # FeaBI
-This repo contains the code for our ISWC paper "FEABI: A Feature Selection-Based Framework for Interpreting KG Embeddings" by Youmna Ismaeil et al. .
+This repo contains the code for our ISWC paper "FeaBI: A Feature Selection-Based Framework for Interpreting KG Embeddings" by Youmna Ismaeil et al. .
 
 Several methods for explaining predictions made by KG embeddings have been proposed in the literature. However, none of them targeted the problem of constructing model explanations for embeddings, i.e., interpretable KG representations that behave similarly to embeddings on certain tasks. We address this problem and propose a novel method for generating interpretable vectors for entity embeddings. To achieve this, we employ embedded feature selection techniques to ex-tract from the KG, on which the embedding model was trained, propositional features that are important for a given KG embedding model. Our approach sheds light on the information in the KG captured by embeddings and provides valuable insights that can be used to further enhance the embedding models. Additionally, we demonstrate the usefulness of our method for explaining embedding-based entity similarity.
 
